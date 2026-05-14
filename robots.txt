@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guntursaputro.github.io/resources-06371l/sitemap.xml
